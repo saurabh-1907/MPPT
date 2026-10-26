@@ -5,10 +5,10 @@ Most important requirement: Keep the original content unchanged. Do not rewrite,
 Design direction
  
 * Use a modern corporate storytelling style that feels elegant, confident, and visually engaging.
-* Apply a sophisticated colour palette of deep navy blue, warm white, and muted gold.
+* Apply a sophisticated colour palette of navy blue, warm white.
 * Use clean, professional typography with bold headings and readable body text.
 * Create strong visual hierarchy, generous spacing, and balanced layouts.
-* Use subtle icons, relevant illustrations, and minimal decorative elements where appropriate.
+* Use subtle icons, relevant illustrations.
 * Use tasteful shapes, dividers, and accent colours to make key ideas stand out.
 * Maintain consistent margins, typography, colours, and visual elements across all slides.
 * Make the presentation suitable for a professional workplace, team meeting, or corporate training session.
@@ -19,8 +19,8 @@ Slide-by-slide instructions
 * Improve the visual presentation of stories, case studies, communication examples, and key takeaways without changing their wording.
 * Present questions and answer options clearly and keep the original options intact.
 * Display the proverb “A stitch in time saves nine” prominently and elegantly.
-* Use diagrams or visual layouts only when they help communicate the existing content more clearly.
-* Keep the opening and closing slides visually impactful and consistent with the new theme.
+* Keep the opening and closing slides visually impactful and consistent
+Don't make it look like AI generated and be minimal with clean and neat design ,let it look organic and more natural!!
  
 Strict restrictions
  
