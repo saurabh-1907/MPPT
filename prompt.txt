@@ -1,0 +1,34 @@
+Redesign the PowerPoint presentation “The Power of Speaking Up” using a completely new, modern, premium-looking presentation template.
+ 
+Most important requirement: Keep the original content unchanged. Do not rewrite, summarize, remove, add, or reorder any content. Preserve all slide titles, body text, examples, stories, case studies, the proverb “A stitch in time saves nine,” audience questions, answer options, and closing message exactly as they appear in the original presentation.
+ 
+Design direction
+ 
+* Use a modern corporate storytelling style that feels elegant, confident, and visually engaging.
+* Apply a sophisticated colour palette of deep navy blue, warm white, and muted gold.
+* Use clean, professional typography with bold headings and readable body text.
+* Create strong visual hierarchy, generous spacing, and balanced layouts.
+* Use subtle icons, relevant illustrations, and minimal decorative elements where appropriate.
+* Use tasteful shapes, dividers, and accent colours to make key ideas stand out.
+* Maintain consistent margins, typography, colours, and visual elements across all slides.
+* Make the presentation suitable for a professional workplace, team meeting, or corporate training session.
+ 
+Slide-by-slide instructions
+ 
+* Keep every slide’s original message and purpose intact.
+* Improve the visual presentation of stories, case studies, communication examples, and key takeaways without changing their wording.
+* Present questions and answer options clearly and keep the original options intact.
+* Display the proverb “A stitch in time saves nine” prominently and elegantly.
+* Use diagrams or visual layouts only when they help communicate the existing content more clearly.
+* Keep the opening and closing slides visually impactful and consistent with the new theme.
+ 
+Strict restrictions
+ 
+1. Do not change the wording, grammar, spelling, or meaning of any existing text.
+2. Do not add new questions, activities, examples, statistics, or explanations.
+3. Do not delete any existing content.
+4. Do not change the slide order or combine slides.
+5. Do not introduce a new quiz or questionnaire.
+6. Change only the template, layout, typography, colours, graphics, backgrounds, and visual styling.
+ 
+Final output: Deliver a fully redesigned, editable PowerPoint file with the same slide count and exactly the same original content, presented in a polished, cohesive, professional template.
